@@ -1,5 +1,5 @@
 # skeevee
-c++ parser
+csv parser
 
 
 23:11 < Kod> hmm that would be basic enough I guess
